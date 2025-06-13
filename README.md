@@ -25,4 +25,4 @@ These assets are currently used in the **Telenium Migration** dashboard to visua
 
 Images are hosted via GitHub Pages for use in Power BI image URLs.
 
-Example: https://P-KPeng.github.io/completion-status-images/OnPlan_Color.png
+Example: https://p-kpeng.github.io/completion-status-images/OnPlan_Color.png
