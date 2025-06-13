@@ -14,7 +14,7 @@ These assets are currently used in the **Telenium Migration** dashboard to visua
 ## Image Details
 
 - Format: PNG
-- Size: 200x800 pixels
+- Size: 1264 x 176 pixels
 - Shape: Rectangle
   - '#F60101' -> Behind Plan - Recovery plan in place
   - '#F49C03' -> On Plan
